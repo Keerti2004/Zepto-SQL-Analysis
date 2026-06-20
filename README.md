@@ -1,5 +1,22 @@
 # Zepto SQL Analysis
 
+## Project Screenshots
+
+### Total Records
+![Row Count](screenshots/row_count.png)
+
+### Null Value Check
+![Null Values](screenshots/null_values_check.png)
+
+### Top Discounted Products
+![Discount Analysis](screenshots/top_discounted_products.png)
+
+### Stock Availability Analysis
+![Stock Analysis](screenshots/stock_analysis.png)
+
+### Inventory Weight by Category
+![Inventory Weight](screenshots/inventory_weight_category.png)
+
 ## Project Overview
 This project analyzes Zepto product data using SQL to uncover pricing trends, discounts, inventory insights, and category performance.
 
